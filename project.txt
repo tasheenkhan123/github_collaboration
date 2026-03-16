@@ -1,2 +1,6 @@
 welcome to github collaboration
+<<<<<<< HEAD
 this line is added in main branch
+=======
+this line is added in feature1 branch
+>>>>>>> feature1
